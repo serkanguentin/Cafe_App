@@ -1,0 +1,40 @@
+
+[
+    {"id":1,
+"title": "Kaugummi",
+"price":0.5,
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCHQJspYLY1lH7MfMADOuPde3E2-APkPkQVQ&usqp=CAU"}
+
+
+,{"id": 2,
+"title":"Cola",
+"price":2,
+"image":"https://ayb.akinoncdn.com/products/2021/11/16/2290/afa51140-b83d-4633-a138-190e1b42efa1_size780x780_quality60_cropCenter.jpg"
+
+}
+,
+{
+    "id":3,
+"title": "Kaffee",
+"price":2,
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGG4wlHfvHMvE-8joClLa33DVcOShxOez47g&usqp=CAU"
+},
+{"id":4,
+"title": "Cheescake",
+"price":5,
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ__dHij8F9vCilhyjDgHdeiCoqG8Vzbcscw&usqp=CAU"}
+,
+{
+    "id":5,
+"title": "Eis Cream",
+"price":2,
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNd-JyBBVyc1L-7y5nFdpOTh1NGVur_8tW_g&usqp=CAU"}
+
+,
+{
+    "id":6,
+"title": "Milkshake",
+"price":4,
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQqPKawCYKDaMdJHdihW9W6BDiIjdvBNFf5w&usqp=CAU"}
+
+]
