@@ -1,9 +1,9 @@
 
 [
     {"id":1,
-"title": "Kaugummi",
-"price":0.5,
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCHQJspYLY1lH7MfMADOuPde3E2-APkPkQVQ&usqp=CAU"}
+"title": "Limonade",
+"price":4,
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmYSGhWzbUmGLs1ZVLmrXMxcsSBY1hsiRtYw&usqp=CAU"}
 
 
 ,{"id": 2,
@@ -16,7 +16,7 @@
 {
     "id":3,
 "title": "Kaffee",
-"price":2,
+"price":3,
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGG4wlHfvHMvE-8joClLa33DVcOShxOez47g&usqp=CAU"
 },
 {"id":4,
@@ -27,7 +27,7 @@
 {
     "id":5,
 "title": "Eis Cream",
-"price":2,
+"price":4,
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNd-JyBBVyc1L-7y5nFdpOTh1NGVur_8tW_g&usqp=CAU"}
 
 ,

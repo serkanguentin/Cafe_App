@@ -61,6 +61,7 @@ function Product({ product, total, money, basket, setbasket }) {
             width: 33%;
           }
           .product img {
+         
             width:100%;
           }
           .product h6 {
